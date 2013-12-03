@@ -5,9 +5,9 @@
 * かう -- to buy
 * かく -- to write
 * かく -- to draw
-* きく -- to listne
+* きく -- to listen
 * よむ -- to read
-* はだらく -- to work
+* はたらく -- to work
 * およぐ -- to swim
 * はじめる -- to start
 * おわる -- to finish
@@ -17,7 +17,7 @@
 * いく -- to go
 * かかる -- to take
 * かえる -- to return
-* おう -- to meet
+* あう -- to meet
 * ある -- to exist
 * うたう -- to sing
 * おどる -- to dance

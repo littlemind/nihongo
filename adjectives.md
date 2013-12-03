@@ -62,14 +62,14 @@
 * にぎやか「な」 -- lively, active
 * しずか「な」 -- quiet
 * べんり「な」 -- convenient
-* ゆめい「な」 -- famous
+* ゆうめい「な」 -- famous
 * たいへん「な」 -- hard, tough
 * ひま「な」 -- having free time, not bussy
 * すき「な」 -- like, favorite
 * きらい「な」 -- dislike
 * じょうず「な」 -- good at
 * へた「な」 -- poor at
-* ざんえん「な」 -- sorry, disappointing, regretful
+* ざんねん「な」 -- sorry, disappointing, regretful
 * すてき「な」 -- nice, wonderful
 * たいせつ「な」 -- important
 * まじめ「な」 -- serious
