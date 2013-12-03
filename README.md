@@ -14,9 +14,9 @@ The material includes topics of the first lecture book of 大腸:
 * conjugation
 
 ##Format
-All notes are intended to be read in the [markdown format](http://daringfireball.net/projects/markdown/), a convenient way to write text, which is then afterwards styled by CSS. I use [Marked 2](http://marked2app.com) to display verbs and adjectives with a coustom style sheet, which creates a 'vocabulary card'-like style, which can be found in the folder <code>utilities</code>. It looks like this
+All notes are intended to be read in the [markdown format](http://daringfireball.net/projects/markdown/), a convenient way to write text, which is then afterwards styled by CSS. I use [Marked 2](http://marked2app.com) to display verbs and adjectives with a custom style sheet, which creates a 'vocabulary card'-like style, which can be found in the folder `utilities`. It looks like this
 ![card.css style with Marked 2](utilities/card.png "card.css style with Marked 2")
 
 
 ##Disclaimer
-I am a student myself. I do not have any expertise in Japanese language and I do not claim any knowlegde what so ever. If you find mistakes, correct them (pull requests). This is what GitHub is about and the reason why I share my efforts in the first place. I am not associated with any company, nor do I pursue any financial interest. Be nice.
+I am a student myself. I do not have any expertise in Japanese language and I do not claim any knowledge what so ever. If you find mistakes, correct them (pull requests). This is what GitHub is about and the reason why I share my efforts in the first place. I am not associated with any company, nor do I pursue any financial interest. Be nice.
