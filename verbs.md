@@ -159,6 +159,3 @@
 ###Verbs Class III 動詞（どうし）
 * する -> します -- to do
 * くる -> きます -- to come
-
-
-

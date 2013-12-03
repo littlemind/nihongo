@@ -57,25 +57,3 @@ N が　欲しいです。 Object N is desired (indicated by が). 欲しい（�
 
 #### Reason for action に
 N1（場所）へ　「Vます形」／N2　に　行きます／来ます／帰ります。 Reason 「Vます形」／N2 (indicated by に) for transition to somewhere N1 indicated by へ.
-
-
-## Verb conjugation
-
-| Non-past              || Past                   ||
-| Affirmative| Negative | Affirmative | Negative |
-|----------- | -------- | ----------- |----------|
-|買います     | 買いません | 買いました   | 買いませんでした | 
-|飲みます     | 飲みません | 飲みました   | 飲みませんでした | 
-[polite style]
-
-## Adjective conjugation
-
-|    | Non-past                     || Past                             ||
-|    | Affirmative| Negative        | Affirmative | Negative            |
-|----|----------- | ----------------| ----------- |----------------------|
-|いA | 高いです    | 高くないてす      | 高かったです  | 高くなかったです       | 
-|なA | 元気です    | 元気じゃありません | 元気でした   | 元気じゃありませんでした |
-|N　 | 雨です    　| 雨じゃありません 　| 雨でした   　| 雨じゃありませんでした 　|
-[高い（たかい）、元気「な」（げんきな）、雨（あめ）]
-
-
