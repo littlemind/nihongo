@@ -45,7 +45,6 @@ Understanding 分かる（わかる）can be indicated in a similar way, but 分
 `N1　は　N2が　A。` The topic of the sentense N1 is described by N2 and its properties A  (indicated by が).
 
 #### Comparison より & の ほうが
-
 * `N1　は　N2より　Aです。`Comparison of N1 and N2, where N1 is more A `than'(より) N2.
 * `N1／N2　の ほうが　A。` の ほうが indicates the preference of N1 or N2 with adjective A. No preference is  again indicted by question word + も + negative, i.e. `どちらも　Aです。`.
 
