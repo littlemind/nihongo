@@ -1,116 +1,116 @@
 #Kanji N5 (110) by 日本語チャレンジ
 
 ##single Kanji
-* 山 -- mountain -- やま・サン
-* 川 -- river -- かわ・
-* 田 -- rice field -- た
-* 日 -- sun -- ひ
-* 月 -- moon -- つき
-* 火 -- fire -- ひ
-* 水 -- water -- みず
-* 木 -- tree -- き
-* 金 -- gold -- きん・かね
-* 土 -- soil -- つち
-* 一 -- one -- いち
-* 二 -- two -- に
-* 三 -- three -- さん
-* 四 -- four -- よん
-* 五 -- five -- ご
-* 六 -- six -- ろく
-* 七 -- seven -- なな
-* 八 -- eight -- はち
-* 九 -- nine -- きゅう
-* 十 -- ten -- じゅう
-* 百 -- hundred -- ひゃく
-* 千 -- thousand -- せん
-* 万 -- ten thousand -- まん
-* 円 -- circle, yen -- まる・えん
-* 年 -- year, age -- ねん・とし
-* 上 -- above -- うえ
-* 下 -- under -- した
-* 中 -- middle -- なか
-* 半 -- half -- はん
-* 分 -- divide, understand, minute -- わける・わかる・ふん
-* 人 -- person -- ひと・にん
-* 子 -- child -- こども
-* 女 -- woman -- おんな
-* 男 -- man -- おとこ
-* 目 -- eye -- め
-* 口 -- mouth, exit -- くち・ぐち
-* 耳 -- ear -- みみ
-* 手 -- hand -- て
-* 足 -- leg, foot -- あし
-* 力 -- power -- ちから
-* 父 -- father -- ちち
-* 母 -- mother -- はは
-* 先 -- foregoing, previous -- まえ・さき
-* 生 -- be born, live -- うまれる
-* 学 -- study -- べんきょうする
-* 校 -- school -- がっこう
-* 友 -- friend -- ともだち
-* 本 -- book, root -- ほん
-* 毎 -- every -- まい
-* 何 -- what -- なん
-* 前 -- front, before -- まえ
-* 後 -- back, after -- うしろ・あと
-* 外 -- outside -- そと
-* 左 -- left -- ひだり
-* 右 -- right -- みぎ
-* 北 -- north -- きた
-* 東 -- east -- ひかし
-* 南 -- south -- みなみ
-* 西 -- west -- にし
-* 名 -- name -- なまえ
-* 牛 -- cow -- うし
-* 馬 -- horse -- うま
-* 魚 -- fish -- さかな
-* 貝 -- shellfish -- かい
-* 雨 -- rain -- あめ
-* 天 -- heaven -- てん
-* 気 -- spirit -- き
-* 車 -- car -- くるま
-* 門 -- gate -- もん
-* 午 -- noon -- ひる
-* 大 -- big -- おおき
-* 小 -- small -- ちいさい
-* 高 -- high, expensive -- たかい
-* 安 -- cheap, safe -- やすい
-* 新 -- new -- あたらしい
-* 古 -- old -- ふるい
-* 長 -- long -- ながい
-* 多 -- many, much -- おおい
-* 少 -- few, little -- すくない
-* 早 -- early -- はやい
-* 行 -- to go -- いく
-* 来 -- to come -- くる
-* 立 -- to stand -- たつ
-* 入 -- to enter, to put in -- はいる
-* 出 -- to go out, to take out -- でる・ずす
-* 食 -- to eat -- たべる
-* 見 -- to see -- みる
-* 書 -- to write -- かく・ほん
-* 言 -- to say -- いう
-* 飲 -- to drink -- のむ
-* 話 -- to speak -- はなす
-* 読 -- to read -- よむ
-* 語 -- word -- ことば
-* 間 -- between -- あいだ
-* 聞 -- to listen -- きく
-* 買 -- to buy -- かう
-* 休 -- to rest -- やすむ
-* 時 -- time -- じかん
-* 週 -- week -- しゅう
-* 道 -- street -- みち
-* 今 -- now -- いま
-* 会 -- to meet -- あう
-* 社 -- company, shrine -- かいしゃ・やしろ
-* 店 -- shop -- みせ
-* 駅 -- station -- えき
-* 花 -- flower -- はな
-* 国 -- country -- くい
-* 白 -- white -- しろ
-* 空 -- sky, empty -- そら・くう
-* 電 -- electricity -- でんき
+* 山 -- やま・サン -- mountain 
+* 川 -- かわ・ -- river 
+* 田 -- た -- rice field 
+* 日 -- ひ -- sun 
+* 月 -- つき -- moon 
+* 火 -- ひ -- fire 
+* 水 -- みず -- water 
+* 木 -- き -- tree 
+* 金 -- きん・かね -- gold 
+* 土 -- つち -- soil 
+* 一 -- いち -- one 
+* 二 -- に -- two 
+* 三 -- さん -- three 
+* 四 -- よん -- four 
+* 五 -- ご -- five 
+* 六 -- ろく -- six 
+* 七 -- なな -- seven 
+* 八 -- はち -- eight 
+* 九 -- きゅう -- nine 
+* 十 -- じゅう -- ten 
+* 百 -- ひゃく -- hundred 
+* 千 -- せん -- thousand 
+* 万 -- まん -- ten thousand 
+* 円 -- まる・えん -- circle, yen 
+* 年 -- ねん・とし -- year, age 
+* 上 -- うえ -- above 
+* 下 -- した -- under 
+* 中 -- なか -- middle 
+* 半 -- はん -- half 
+* 分 -- わける・わかる・ふん -- divide, understand, minute 
+* 人 -- ひと・にん -- person 
+* 子 -- こども -- child 
+* 女 -- おんな -- woman 
+* 男 -- おとこ -- man 
+* 目 -- め -- eye 
+* 口 -- くち・ぐち -- mouth, exit 
+* 耳 -- みみ -- ear 
+* 手 -- て -- hand 
+* 足 -- あし -- leg, foot 
+* 力 -- ちから -- power 
+* 父 -- ちち -- father 
+* 母 -- はは -- mother 
+* 先 -- まえ・さき -- foregoing, previous 
+* 生 -- うまれる -- be born, live 
+* 学 -- べんきょうする -- study 
+* 校 -- がっこう -- school 
+* 友 -- ともだち -- friend 
+* 本 -- ほん -- book, root 
+* 毎 -- まい -- every 
+* 何 -- なん -- what 
+* 前 -- まえ -- front, before 
+* 後 -- うしろ・あと -- back, after 
+* 外 -- そと -- outside 
+* 左 -- ひだり -- left 
+* 右 -- みぎ -- right 
+* 北 -- きた -- north 
+* 東 -- ひかし -- east 
+* 南 -- みなみ -- south 
+* 西 -- にし -- west 
+* 名 -- なまえ -- name 
+* 牛 -- うし -- cow 
+* 馬 -- うま -- horse 
+* 魚 -- さかな -- fish 
+* 貝 -- かい -- shellfish 
+* 雨 -- あめ -- rain 
+* 天 -- てん -- heaven 
+* 気 -- き -- spirit 
+* 車 -- くるま -- car 
+* 門 -- もん -- gate 
+* 午 -- ひる -- noon 
+* 大 -- おおき -- big 
+* 小 -- ちいさい -- small 
+* 高 -- たかい -- high, expensive 
+* 安 -- やすい -- cheap, safe 
+* 新 -- あたらしい -- new 
+* 古 -- ふるい -- old 
+* 長 -- ながい -- long 
+* 多 -- おおい -- many, much 
+* 少 -- すくない -- few, little 
+* 早 -- はやい -- early 
+* 行 -- いく -- to go 
+* 来 -- くる -- to come 
+* 立 -- たつ -- to stand 
+* 入 -- はいる -- to enter, to put in 
+* 出 -- でる・ずす -- to go out, to take out 
+* 食 -- たべる -- to eat 
+* 見 -- みる -- to see 
+* 書 -- かく・ほん -- to write 
+* 言 -- いう -- to say 
+* 飲 -- のむ -- to drink 
+* 話 -- はなす -- to speak 
+* 読 -- よむ -- to read 
+* 語 -- ことば -- word 
+* 間 -- あいだ -- between 
+* 聞 -- きく -- to listen 
+* 買 -- かう -- to buy 
+* 休 -- やすむ -- to rest 
+* 時 -- じかん -- time 
+* 週 -- しゅう -- week 
+* 道 -- みち -- street 
+* 今 -- いま -- now 
+* 会 -- あう -- to meet 
+* 社 -- かいしゃ・やしろ -- company, shrine 
+* 店 -- みせ -- shop 
+* 駅 -- えき -- station 
+* 花 -- はな -- flower 
+* 国 -- くい -- country 
+* 白 -- しろ -- white 
+* 空 -- そら・くう -- sky, empty 
+* 電 -- でんき -- electricity 
 
 ##combined Kanji
 * と山 -- とざん -- climbing
